@@ -1,0 +1,8 @@
+6 algoritmos aprendizado maquina
+2 algoritmos processamento texto lingua
+3 introducao processamento audio
+3 segurança internet
+4 processamento de imagem
+4 hardware gráficos
+3 programação java javascript
+4 progamação web
